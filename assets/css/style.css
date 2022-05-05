@@ -1,0 +1,59 @@
+*{
+    padding: 0px;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+    color: black;
+    
+}
+
+img{
+    width: 500px;
+    border: 1px solid red;
+}
+.hi{
+    color: #EC4067;
+}
+li{
+    display: inline;
+    padding-right: 20px;
+    text-decoration: none;
+    font-size: large;
+    
+
+}
+.hello{
+    padding-right: 20px;
+    font-size: large;
+}
+button{
+    background-color: #EC4067;
+    border: none;
+    padding: 5px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+.nurturing{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.moringa{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+#moringaHeading{
+    margin-top: 120px;
+}
+
+
+span{
+    color: #EC4067;
+}
+#coding{
+    font-size: 30px;
+}
