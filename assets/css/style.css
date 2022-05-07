@@ -1,17 +1,17 @@
 *{
-    padding: 0px;
+    padding: 2px;
     margin: 0;
+    
+    
 }
 a{
     text-decoration: none;
-    color: black;
+    color: #EC4067
     
 }
 
 
-.hi{
-    color: #EC4067;
-}
+ 
 li{
     display: inline;
     padding-right: 20px;
@@ -20,10 +20,8 @@ li{
     
 
 }
-.hello{
-    padding-right: 20px;
-    font-size: large;
-}
+
+
 button{
     background-color: #EC4067;
     border: none;
@@ -38,39 +36,69 @@ nav{
     justify-content: space-around;
     margin-top: 20px;
 }
-.moringa{
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-}
-#moringaHeading{
-    margin-top: 120px;
-}
+
+
 img{
     height: auto;
     width: 200px;
+    
 }
 
 
-span{
+ #nurture{
     color: #EC4067;
 }
-#coding{
-    font-size: 30px;
-}
+
 .orientation{
- height: 100px;
-    
+    height: 100px;
     margin: 10px;
     display: flex;
-justify-content: space-between;
-height: 200px;
-padding: 50px;    
+    justify-content: space-between;
+    padding: 50px;
 }
+span{
+    color: #EC4067;
+    font-weight: bold;
+}
+#color{
+    padding-left: 200px;
+}
+#last{
+    padding-left: 200px;
+}
+    
 .boardmeet{
     display: flex;
-    padding: 50px;
+    padding: 70px;
     height: 200px;
+}
+#pad{
+    padding-top: 50px;
+    font-size: medium;
+}
+.ping{
+    padding-left: 200px;
+}
+#bike{
+    padding-left: 200px;
+}
+#story{
+    padding-left: 120px;
+    
+}
+#board{
+    padding-left: 120px;
+}
+#graduand{
+    padding-right: 100px;
+    
+}
+#day{
+    padding-top: 50px;
+}
+#graduate{
+    display: flex;
+    justify-content: space-around;
 }
 .party{
     display: flex;
@@ -87,5 +115,5 @@ padding: 50px;
 }
 .section4{
     display: flex;
-    justify-content: space-between;
+    justify-content: space aro;
 }
