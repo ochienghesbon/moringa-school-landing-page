@@ -67,6 +67,7 @@ span{
 #color{
     padding-left: 200px;
     
+    
 }
 #last{
     padding-left: 200px;
@@ -129,7 +130,7 @@ span{
 .section3{
     display: flex;
     justify-content: space-between;
-    margin-bottom: 250px;
+    
 }
 .section4{
     display: flex;
