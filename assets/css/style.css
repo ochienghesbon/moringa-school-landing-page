@@ -118,6 +118,9 @@ span{
     
     
 }
+.looc{
+    color: #EC4067;
+}
 .section3{
     display: flex;
     justify-content: space-between;
