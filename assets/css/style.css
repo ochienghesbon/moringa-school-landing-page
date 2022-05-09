@@ -30,6 +30,7 @@ button{
 nav{
     display: flex;
     justify-content: space-between;
+    margin-top: 50px;
 }
 .nurturing{
     display: flex;
