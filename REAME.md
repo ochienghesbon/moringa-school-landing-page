@@ -1,4 +1,4 @@
-#Moringa school website
+Moringa school website
 
 This a one page website for Moringa school 
 It shows how interested students can enroll for courses
