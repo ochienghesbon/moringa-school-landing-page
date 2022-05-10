@@ -1,6 +1,9 @@
 # moringa school landing page
-#### {Brief description of application}, 29/4/2022
+#### Moringa school Website, 29/4/2022
 #### By **Hesbon Ochieng**
+
+## Table of Content
+
 ## Description
 The project is to create a simple website for moringa school which can enable interested studentts to to see the list of courses and enroll for specific programmes based on their qualification, it also shows pictures of the recent graduation ceremonies,boardroom meetings; the profile of the instituion technical mentors etc
 ## Setup Requirements
